@@ -1,0 +1,33 @@
+
+section{
+	padding-left: 15rem;
+	padding-right: 15rem;
+}
+h1{
+color: #0042FF;
+}
+table{
+	border: solid 1px;
+	text-align: center;
+}
+th{
+	background: #000000;
+	color: #FFFFFF;
+}
+tr td:first-of-type{
+	background: #000000;
+	color: #FFFFFF;
+}
+#botona{
+	background: green;
+	border-radius: 5px;
+	padding: 5px;
+	border: #8C8C8C solid 1px;
+}
+
+#botonb{
+	background: red;
+	border-radius: 5px;
+	padding: 5px;
+	border: #8C8C8C solid 1px;
+}

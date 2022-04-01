@@ -1,0 +1,13 @@
+nav ul{
+	padding: 0.7rem;
+	background: #000000;
+	text-align: center;
+}
+nav ul li{
+	display: inline-block;
+}
+a{
+	text-decoration: none;
+	color: #FFFFFF;
+	padding: 1rem;
+}

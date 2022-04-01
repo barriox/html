@@ -1,0 +1,22 @@
+
+.content{
+	padding-top: 4rem;
+}
+p:first-letter{
+	font-size: 150%;
+}
+.content p:first-child::first-line{
+	color: red;
+	font-family: Stalemate;
+	font-size: 3rem;
+}
+.content p:first-child::first-letter{
+	font-family: Stalemate;
+	font-size: 500%;
+	line-height: 1rem;
+}
+body{
+	margin: 0rem;
+	background-color: orange;
+	font-family: Alegreya Sans SC;
+}

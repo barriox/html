@@ -1,0 +1,13 @@
+body{
+	background: transparent url();
+	background-repeat: no-repeat;
+	background-position: 40%;
+}
+.background{
+	background: red;/*poco usado*/
+	background: rgb(255,0,0);/**/
+	background: #ff0000;/*hexadecimal*/
+	background: #f00;/*modo abreviado cuando los 3 pares coinciden como en el caso de arriba*/
+	background: hsl(255,50%,50%);
+	background: rgba(255,0,0,0.25);/*por canales*/
+}

@@ -1,0 +1,9 @@
+footer{
+	font-family: pathway gothic one;
+	text-align: center;
+	background-color: yellow;
+
+}
+footer p:first-child{
+	font-size: 150%;
+}

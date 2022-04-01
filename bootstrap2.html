@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <title>Juego Adivina Numero</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <label>Empieza el juego</label><br />
+    <h1>El numero es <?=?>?</h1><br />
+    <label><strong>Jugada <?=?></strong></label><br />
+    <form action="jugar.php" method="post">
+      <input type="radio" name="equiv" value="mayor"><label>Mayor</label><br />
+      <input type="radio" name="equiv" value="menor"><label>Menor</label><br />
+      <input type="radio" name="equiv" value="igual"><label>Igual</label><br />
+      <input type="submit" name="submit" value="Empezar">
+      <input type="submit" name="autosubmit" formaction="./jugar.php" value="Reiniciar">
+      <input type="button" name="volver" value="Volver">
+    </form>
+  </body>
+</html>

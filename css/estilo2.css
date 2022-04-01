@@ -1,0 +1,46 @@
+header img{
+	float: left;
+	margin-right: 40rem;
+}
+
+header nav ul li{
+	margin-top: 3rem;
+	display: inline-block;
+	padding: 1rem;
+	background-color: white;
+	margin-bottom: 1rem;
+	border: solid 1px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+main{
+	background-color: gray;
+}
+section img{
+	float: right;
+	padding-right: 1rem;
+	padding-left: 1rem;
+}
+section{
+	text-align: left;
+	background-color: white;
+	margin: 1rem;
+}
+main nav ul{
+	display: inline-flex;
+	margin-left: 1rem;
+	border: solid 1px;
+	padding: 0;
+
+}
+main nav ul li{
+	display: inline-block;
+	padding: 1rem;
+	background-color: white;
+
+}
+footer{
+	margin-top: 2rem;
+	background-color: dimgray;
+	padding: 1rem;
+}

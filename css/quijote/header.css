@@ -1,0 +1,50 @@
+
+#logo{
+	margin: 1rem;
+	float: left;
+	background-color: white;
+	border: solid 1px;
+	padding: 0.25rem;
+}
+h1{
+	float: left;
+	width: 10rem;
+	margin-top: 0rem;
+	padding: 0.25rem;
+}
+.navigation ul{
+	margin: 0rem;
+}
+.navigation li{
+	margin-top: 0rem;
+	margin-right: 0.5rem;
+	display: inline-block;
+	padding: 0.25rem;
+	background-color: white;
+	border: solid 1px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	float: right;
+
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.hero{
+	clear: unset;
+	margin: 0rem;
+}
+.hero img{
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	width: 100%;
+	background-color: white;
+
+}
+figcaption{
+	float: right;
+}
+
+
+
